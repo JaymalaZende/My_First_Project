@@ -1,0 +1,18 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "Name": "test",
+        "Designation": "employ",
+        "MonthlySalary": "2000",
+        "AdvanceSalary": "1000",
+        "Attaindence":"25",
+        "Leave":"5",
+        "HalfDay":"0",
+        "TotalDays": "30"
+  
+      }
+    ]
+      }
+    
+  
